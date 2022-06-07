@@ -1,3 +1,1 @@
 scrolldown
-libblas3
-liblapack3
