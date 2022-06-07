@@ -1,3 +1,4 @@
 gfortran
 libblas3
 liblapack3
+libgslcblas0
