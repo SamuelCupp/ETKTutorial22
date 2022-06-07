@@ -1,2 +1,2 @@
-libblas-dev
-liblapack-dev
+libblas3
+liblapack3
